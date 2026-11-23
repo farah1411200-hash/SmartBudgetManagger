@@ -1,4 +1,4 @@
-# SmartBudgetManagger
+# SMartBudgetManagger
 A project for managing Budget.
 # SmartBudget Manager
 
